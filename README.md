@@ -10,10 +10,10 @@ increase performance of neural networks.
 
 The code does the following:
 
- > Read an image from a video, convert to grayscale
- > Smoothen gray image using Gaussian kernel
- > Perform the Canny Function to detect edges
- > Mask a subset of the edges
- > Apply the Hough Transform to detect lines
- > Draw the lines
- > Display the result!
+ * Read an image from a video, convert to grayscale
+ * Smoothen gray image using Gaussian kernel
+ * Perform the Canny Function to detect edges
+ * Mask a subset of the edges
+ * Apply the Hough Transform to detect lines
+ * Draw the lines
+ * Display the result!
