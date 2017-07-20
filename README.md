@@ -17,3 +17,5 @@ The code does the following:
  * Apply the Hough Transform to detect lines
  * Draw the lines
  * Display the result!
+
+The Jupyter notebook (love it by the way!) you're looking for is P1 in 'submission'. Enjoy!
